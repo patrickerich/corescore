@@ -1,0 +1,4 @@
+.venv/
+fusesoc.conf
+fusesoc_libraries/
+__pycache__/
