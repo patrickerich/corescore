@@ -1,3 +1,5 @@
 fusesoc
+pyserial
 msgpack
+
 

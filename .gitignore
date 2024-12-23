@@ -2,3 +2,4 @@
 fusesoc.conf
 fusesoc_libraries/
 __pycache__/
+build/
